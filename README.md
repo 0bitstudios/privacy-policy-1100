@@ -1,7 +1,7 @@
 # Informativa sulla Privacy - 1100
 
-**Sviluppatore:** 0BIT STUDIOS 
-**Applicazione:** 1100 
+**Sviluppatore:** 0BIT STUDIOS  
+**Applicazione:** 1100  
 **Ultimo aggiornamento:** 05/11/2026
 
 ---
@@ -29,7 +29,6 @@ Poiché i dati della classifica risiedono esclusivamente sull'infrastruttura di 
 2. Toccare l'icona del **Profilo** in basso a destra.
 3. Toccare i **tre puntini** in alto a destra e selezionare **Impostazioni**.
 4. Scorri verso il basso e seleziona **Elimina account Play Games e dati**.
-5. Cerca l'applicazione **1100** dall'elenco e tocca **Elimina** accanto ad essa per rimuovere definitivamente i punteggi e i dati associati.
-(https://support.google.com/googleplay/answer/9130646)
+5. Cerca l'applicazione **1100** dall'elenco e tocca **Elimina** accanto ad essa per rimuovere definitivamente i punteggi e i dati associati (per maggiori dettagli consultare la [Guida ufficiale di Google Play](https://support.google.com/googleplay/answer/9130646)).
 
 In alternativa, gli utenti possono richiedere supporto o conferme sull'eliminazione inviando un'email al nostro indirizzo di contatto: 0bitstudios@gmail.com
