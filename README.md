@@ -7,28 +7,31 @@
 ---
 
 ### 1. Raccolta e Uso dei Dati
-La nostra applicazione **non raccoglie né conserva dati personali** su server proprietari o database gestiti direttamente dallo sviluppatore. 
+La nostra applicazione **non conserva dati personali** su server proprietari o database gestiti direttamente dallo sviluppatore. 
 
-L'applicazione utilizza esclusivamente i servizi di terze parti di **Google Play Games Services** per consentire l'accesso alle classifiche e il salvataggio dei punteggi di gioco.
+Tuttavia, l'applicazione integra servizi di terze parti per fornire funzionalità di gioco e pubblicità:
+* **Google Play Games Services:** Per la gestione delle classifiche e dei punteggi.
+* **Google AdMob & Unity Ads:** Per l'erogazione di annunci pubblicitari all'interno dell'applicazione.
 
 ---
 
-### 2. Tipi di Dati Gestiti, Conservazione ed Eliminazione
+### 2. Tipi di Dati Gestiti dai Servizi di Terze Parti
 
-* **Dati eliminati:** Tramite i servizi di Google Play Games vengono associati al tuo profilo l'ID utente di Google Play Games e i punteggi ottenuti nel gioco.
-* **Dati conservati dallo sviluppatore:** Nessun dato viene conservato dallo sviluppatore o su server esterni.
-* **Periodi di conservazione aggiuntivi:** Lo sviluppatore non trattiene alcun dato dopo l'eliminazione o lo scollegamento dell'account da parte dell'utente. I dati di sistema sono gestiti direttamente da Google in conformità con la [Normativa sulla privacy di Google](https://policies.google.com/privacy).
+I servizi terzi integrati nell'app (Google Play Games, AdMob e Unity Ads) possono raccogliere ed elaborare automaticamente alcuni dati tecnici per scopi di erogazione annunci, analisi e prevenzione delle frodi:
+* **ID Utente e Punteggi:** Associati al profilo Google Play Games per la classifica.
+* **ID Dispositivo e Identificatori Pubblicitari:** (es. Android Advertising ID) per l'analisi e la gestione degli annunci pubblicitari.
+* **Dati di interazione e diagnostica:** Informazioni anonime su visualizzazioni degli annunci, crash dell'app e prestazioni generali.
+
+Tutti i dati trasmessi dai SDK di terze parti sono **criptati in transito** tramite protocolli sicuri (HTTPS/TLS).
+
+ Per gli utenti che rientrano nelle categorie tutelate dalle Norme per le famiglie, l'erogazione di annunci viene configurata in modalità idonea ai minori in conformità con le normative vigenti (es. COPPA/GDPR).
 
 ---
 
 ### 3. Procedura per Richiedere l'Eliminazione dei Dati
 
-Poiché i dati della classifica risiedono esclusivamente sull'infrastruttura di Google Play Games, gli utenti possono eliminare i propri dati di gioco e il profilo della classifica in qualsiasi momento eseguendo i seguenti passaggi dal proprio dispositivo Android:
+Poiché l'applicazione non memorizza dati su propri server:
+* **Dati delle Classifiche (Google Play Games):** Gli utenti possono eliminare i dati del proprio profilo e i punteggi salvati aprendo l'app **Google Play Giochi** sul dispositivo > **Profilo** > **Impostazioni** > **Elimina account Play Games e dati** > Selezionare **1100** e confermare l'eliminazione (dettagli nella [Guida ufficiale di Google Play](https://support.google.com/googleplay/answer/9130646)).
+* **Identificatori pubblicitari (AdMob / Unity Ads):** Gli utenti possono reimpostare o eliminare il proprio ID pubblicitario dalle impostazioni del dispositivo Android andando su **Impostazioni > Google > Annunci > Elimina ID pubblicitario**.
 
-1. Aprire l'applicazione **Google Play Giochi** sul dispositivo.
-2. Toccare l'icona del **Profilo** in basso a destra.
-3. Toccare i **tre puntini** in alto a destra e selezionare **Impostazioni**.
-4. Scorri verso il basso e seleziona **Elimina account Play Games e dati**.
-5. Cerca l'applicazione **1100** dall'elenco e tocca **Elimina** accanto ad essa per rimuovere definitivamente i punteggi e i dati associati (per maggiori dettagli consultare la [Guida ufficiale di Google Play](https://support.google.com/googleplay/answer/9130646)).
-
-In alternativa, gli utenti possono richiedere supporto o conferme sull'eliminazione inviando un'email al nostro indirizzo di contatto: 0bitstudios@gmail.com
+Per ulteriori informazioni o richieste di supporto sull'eliminazione dei dati, puoi contattare lo sviluppatore all'indirizzo email: 0bitstudios@gmail.com
