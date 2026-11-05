@@ -1,26 +1,35 @@
-# privacy-policy-1100
+# Informativa sulla Privacy - 1100
 
+**Sviluppatore:** 0BIT STUDIOS 
+**Applicazione:** 1100 
+**Ultimo aggiornamento:** 05/11/2026
 
-Privacy Policy per 1100
+---
 
-Questa applicazione non raccoglie né memorizza dati personali dell'utente su server proprietari.
+### 1. Raccolta e Uso dei Dati
+La nostra applicazione **non raccoglie né conserva dati personali** su server proprietari o database gestiti direttamente dallo sviluppatore. 
 
-Servizi di terze parti (Google Play Games Services)
+L'applicazione utilizza esclusivamente i servizi di terze parti di **Google Play Games Services** per consentire l'accesso alle classifiche e il salvataggio dei punteggi di gioco.
 
-L'applicazione utilizza i servizi di Google Play Games esclusivamente per la gestione delle classifiche e dei punteggi. I dati relativi a ID giocatore e punteggi sono gestiti interamente da Google in conformità con la Normativa sulla privacy di Google.
+---
 
-Eliminazione dei dati dell'utente
+### 2. Tipi di Dati Gestiti, Conservazione ed Eliminazione
 
-Poiché i dati non risiedono su server nostri, non conserviamo alcuna informazione personale. Gli utenti possono eliminare i dati di gioco, i punteggi e scollegare l'app in qualsiasi momento direttamente dal proprio dispositivo Android seguendo questi passaggi:
+* **Dati eliminati:** Tramite i servizi di Google Play Games vengono associati al tuo profilo l'ID utente di Google Play Games e i punteggi ottenuti nel gioco.
+* **Dati conservati dallo sviluppatore:** Nessun dato viene conservato dallo sviluppatore o su server esterni.
+* **Periodi di conservazione aggiuntivi:** Lo sviluppatore non trattiene alcun dato dopo l'eliminazione o lo scollegamento dell'account da parte dell'utente. I dati di sistema sono gestiti direttamente da Google in conformità con la [Normativa sulla privacy di Google](https://policies.google.com/privacy).
 
-Aprire l'app Google Play Giochi.
+---
 
-Toccare l'icona del profilo e poi i tre puntini in alto a destra per aprire le Impostazioni.
+### 3. Procedura per Richiedere l'Eliminazione dei Dati
 
-Selezionare Elimina account Play Games e dati.
+Poiché i dati della classifica risiedono esclusivamente sull'infrastruttura di Google Play Games, gli utenti possono eliminare i propri dati di gioco e il profilo della classifica in qualsiasi momento eseguendo i seguenti passaggi dal proprio dispositivo Android:
 
-Cercare 1100 e confermare l'eliminazione dei dati.
+1. Aprire l'applicazione **Google Play Giochi** sul dispositivo.
+2. Toccare l'icona del **Profilo** in basso a destra.
+3. Toccare i **tre puntini** in alto a destra e selezionare **Impostazioni**.
+4. Scorri verso il basso e seleziona **Elimina account Play Games e dati**.
+5. Cerca l'applicazione **1100** dall'elenco e tocca **Elimina** accanto ad essa per rimuovere definitivamente i punteggi e i dati associati.
+(https://support.google.com/googleplay/answer/9130646)
 
-Potete consultare la guida ufficiale a questo indirizzo https://support.google.com/googleplay/answer/9130646
-
-Per ulteriori chiarimenti, è possibile contattare lo sviluppatore all'indirizzo email 0bitstudios@gmail.com
+In alternativa, gli utenti possono richiedere supporto o conferme sull'eliminazione inviando un'email al nostro indirizzo di contatto: 0bitstudios@gmail.com
